@@ -84,3 +84,5 @@ tags\soft-portraits_2.html
 tags\soft-portraits_3.html
 tags\soft-portraits_4.html
 tags\soft-portraits_5.html
+index.html
+link_list.html
